@@ -14,7 +14,7 @@ My work lives at the intersection of:
 ### 🔹 Agent Bridge — *MCP Tool Orchestrator*
 An intelligent orchestration layer that interprets user intent, selects the right tools from connected **MCP servers**, executes them securely, and synthesizes a final, comprehensive response.
 
-### 🔹 MemWyre — *AI Memory Infrastructure*
+### 🔹 Memwyre — *AI Memory Infrastructure*
 A persistent, cross-LLM memory layer that enables users to **store, retrieve, and reason over knowledge** across chats, tools, and agents.
 
 - Systems that work across models, not locked to one
